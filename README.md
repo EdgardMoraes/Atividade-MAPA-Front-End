@@ -30,9 +30,9 @@ ITEM 2 -  Considere que o consumo segue a seguinte tabela:
 
 ### Exemplo de sistema (sem formatação):
 
-![alt text](image.png)
+![alt text](/Atividade-MAPA-Front-End/img/image.png)
 
 ### Exemplo de sistema (com formatação):
 
-![alt text](image-1.png)
+![alt text](/Atividade-MAPA-Front-End/img/image-1.png)
 
